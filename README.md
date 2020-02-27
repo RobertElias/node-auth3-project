@@ -1,3 +1,4 @@
+# Robert Elias Branch
 # Authentication using JSON Web Tokens (JWTs)
 
 ## Topics
